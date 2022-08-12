@@ -4,9 +4,9 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ owner/propietario del bot  ⋅.━━━━ ⊰
 global.owner = [
-  ['5492266466080', 'creador', true],
-  ['972529277406'],
-  ['50495745934'], //numero del owner
+  ['972528295072', 'creador', true],
+  ['972528295072'],
+  ['972528295072'], //numero del owner
 ]
 //aqui poner los numero premium 
 global.mods = [] 
